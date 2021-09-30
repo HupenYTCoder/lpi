@@ -2,10 +2,10 @@
 
 - Токен Kate Mobile. Получить можно [здесь](https://oauth.vk.com/authorize?client_id=2685278&scope=1073737727&redirect_uri=https://oauth.vk.com/blank.html&display=page&response_type=token&revoke=1)
 - Токен VK Admin. Получить можно [здесь](https://oauth.vk.com/authorize?client_id=6121396&scope=1073737727&redirect_uri=https://oauth.vk.com/blank.html&display=page&response_type=token&revoke=1)
-##Внимание после получения и копирования токена необходимо указать только ключ, расположенный между начиная с "https://api.vk.com/blank.html#access_token=" и оканчивающий "&expires_in=0..."
+## Внимание после получения и копирования токена необходимо указать только ключ, расположенный между начиная с "https://api.vk.com/blank.html#access_token=" и оканчивающий "&expires_in=0..."
 - Пример строка которую получаем: https://api.vk.com/blank.html#access_token=111aaaaaaaaaaaaaaaaaaaa2b73bbbbbbbbba730bfyyyyyyyyyyyyyyyy7e8265d6ee1c831a7xxxxxxxxxx&expires_in=0&user_id=100
 - и что надо от строки оставить: 111aaaaaaaaaaaaaaaaaaaa2b73bbbbbbbbba730bfyyyyyyyyyyyyyyyy7e8265d6ee1c831a7xxxxxxxxxx
-##Другие параметры для получения:
+## Другие параметры для получения:
 - Ключ API для RuCaptha (будет решать капчу вк). Для получения ключа:
 Регестрируемся/авторизовываемся на сайте => [клик](https://rucaptcha.com/auth)
 После авторизации получаете ключ в разделе => [Главная](https://rucaptcha.com/enterpage)
