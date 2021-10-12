@@ -16,4 +16,8 @@
 
 ![](https://sun9-57.userapi.com/impg/Rq1oMDW_FvQHAdpj02haIhe9YNdeddJ12mdKDQ/5Sdc8fVjfBk.jpg?size=604x193&quality=96&sign=abf7709e44b8a0c93492c9f74d61a8a3&c_uniq_tag=2XjfF9RRpJYa8nZAWwAkDE7BY1iGuaPS4oyAZCRn8K4&type=album%27)
 - Ключ от сервиса Dev-UP => https://dev-up.ru
-
+- кликаем кнопку `войти через вконтакте`
+- разрешаем приложению доступ
+- ниже будет API Key где:
+`API Информация`
+`Ваш API KEY:`
