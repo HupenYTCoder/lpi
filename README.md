@@ -10,11 +10,7 @@
 Регестрируемся/авторизовываемся на сайте => [клик](https://rucaptcha.com/auth)
 После авторизации получаете ключ в разделе => [Главная](https://rucaptcha.com/enterpage)
 ![](https://sun9-41.userapi.com/impg/NdVLX-0XYupfuhCYBwFl4Sq90sl2B7ax6jqPxA/RMyNs9-mW4c.jpg?size=807x536&quality=96&sign=84a4422eaca6dc5c4019ef3c3faa2557&c_uniq_tag=HQ7NQzuSxdkjIhX2mJJwdywS7JJ4MRMm6I0A7Hpt1Ao&type=album%27)
-- Ключ API для OpenWeather. Для получения ключа:
-Регистрируемся/авторизовываемся тут => [клик](https://home.openweathermap.org)
-Далее после авторизации заходим во вкладку => [API keys](https://home.openweathermap.org/api_keys) <= вводим название ключа и жмём кнопку Generate, копируем ключ и вуаля
 
-![](https://sun9-57.userapi.com/impg/Rq1oMDW_FvQHAdpj02haIhe9YNdeddJ12mdKDQ/5Sdc8fVjfBk.jpg?size=604x193&quality=96&sign=abf7709e44b8a0c93492c9f74d61a8a3&c_uniq_tag=2XjfF9RRpJYa8nZAWwAkDE7BY1iGuaPS4oyAZCRn8K4&type=album%27)
 - Ключ от сервиса Dev-UP => https://dev-up.ru
 - кликаем кнопку `войти через вконтакте`
 - разрешаем приложению доступ
