@@ -10,10 +10,3 @@
 Регестрируемся/авторизовываемся на сайте => [клик](https://rucaptcha.com/auth)
 После авторизации получаете ключ в разделе => [Главная](https://rucaptcha.com/enterpage)
 ![](https://sun9-41.userapi.com/impg/NdVLX-0XYupfuhCYBwFl4Sq90sl2B7ax6jqPxA/RMyNs9-mW4c.jpg?size=807x536&quality=96&sign=84a4422eaca6dc5c4019ef3c3faa2557&c_uniq_tag=HQ7NQzuSxdkjIhX2mJJwdywS7JJ4MRMm6I0A7Hpt1Ao&type=album%27)
-
-- Ключ от сервиса Dev-UP => https://dev-up.ru
-- кликаем кнопку `войти через вконтакте`
-- разрешаем приложению доступ
-- ниже будет API Key где:
-`API Информация`
-`Ваш API KEY:`
